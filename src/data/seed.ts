@@ -1,12 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : seed.ts
- * Lokasi file : src/data/seed.ts
- * Fungsi      : Menyediakan data awal / seed untuk master
- *               Dosen, Mata Kuliah, Kelas, dan Ruang yang
- *               digunakan pada proses inisialisasi database.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
+ 
  * ============================================================
  *
  * File ini berisi data awal yang digunakan oleh aplikasi,
