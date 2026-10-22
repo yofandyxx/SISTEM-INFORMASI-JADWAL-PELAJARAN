@@ -1,15 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : DashboardScreen.tsx
- * Lokasi file : src/screens/DashboardScreen.tsx
- * Fungsi      : Menampilkan halaman Dashboard yang berisi
- *               identitas aplikasi, informasi Program Studi,
- *               statistik Jadwal, Kelas Aktif, Ruang, serta
- *               daftar Jadwal Hari Ini.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
- *
+ 
  * Fitur utama:
  *
  * 1. Menampilkan Header aplikasi.
