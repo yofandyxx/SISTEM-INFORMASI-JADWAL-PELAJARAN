@@ -1,13 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : SearchScreen.tsx
- * Lokasi file : src/screens/SearchScreen.tsx
- * Fungsi      : Menyediakan pencarian jadwal berdasarkan Mata
- *               Kuliah, Dosen, Kelas, Ruang, dan Hari, kemudian
- *               menampilkan hasil melalui ScheduleCard.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
+ 
  *
  * Fitur utama:
  *
