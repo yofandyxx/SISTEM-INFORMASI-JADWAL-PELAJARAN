@@ -1,14 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : ScheduleScreen.tsx
- * Lokasi file : src/screens/ScheduleScreen.tsx
- * Fungsi      : Menampilkan daftar jadwal dan menyediakan
- *               tindakan tambah, edit, serta hapus melalui
- *               callback dari komponen induk.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
- *
+
  * Fitur utama:
  *
  * 1. Menampilkan header halaman Jadwal Pelajaran.
