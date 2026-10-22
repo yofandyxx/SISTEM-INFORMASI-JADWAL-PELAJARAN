@@ -1,14 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : MasterScreen.tsx
- * Lokasi file : src/screens/MasterScreen.tsx
- * Fungsi      : Menyediakan halaman Master Data untuk mengelola
- *               data Dosen dan Mata Kuliah serta menampilkan
- *               data Kelas dan Ruang sebagai referensi jadwal.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
- *
+
  * Fitur utama:
  *
  * 1. Menampilkan halaman utama Master Data.
