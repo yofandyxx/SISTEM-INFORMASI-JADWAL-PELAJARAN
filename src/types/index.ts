@@ -1,15 +1,6 @@
 
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : index.ts
- * Lokasi file : src/types/index.ts
- * Fungsi      : Mendefinisikan tipe data utama aplikasi untuk
- *               navigasi, Dosen, Mata Kuliah, Kelas, Ruang,
- *               Jadwal, serta tipe input yang digunakan pada
- *               proses tambah dan ubah data.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
+ 
  *
  * Fitur utama:
  *
