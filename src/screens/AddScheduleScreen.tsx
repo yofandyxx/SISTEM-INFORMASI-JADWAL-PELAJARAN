@@ -1,14 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : AddScheduleScreen.tsx
- * Lokasi file : src/screens/AddScheduleScreen.tsx
- * Fungsi      : Menyediakan form untuk menambah dan mengubah
- *               jadwal perkuliahan dengan memilih hari, waktu,
- *               Dosen, Mata Kuliah, Kelas, dan Ruang.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
- *
+
  * Fitur utama:
  *
  * 1. Tambah Jadwal.
