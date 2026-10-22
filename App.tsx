@@ -1,14 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : App.tsx
- * Lokasi file : App.tsx (root project PPNPSchoolSchedule)
- * Fungsi      : Mengelola inisialisasi SQLite, state utama,
- *               CRUD Jadwal/Dosen/Mata Kuliah, pemeriksaan
- *               bentrok, perpindahan layar, form Tambah/Edit,
- *               serta Bottom Navigation aplikasi.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
+ 
  *
  * Fitur utama:
  *
