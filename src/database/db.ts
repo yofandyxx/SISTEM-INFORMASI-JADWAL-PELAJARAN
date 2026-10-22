@@ -1,12 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : db.ts
- * Lokasi file : src/database/db.ts
- * Fungsi      : Mengelola database lokal SQLite aplikasi.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
- * ============================================================
- *
+ 
  * File ini bertanggung jawab terhadap:
  *
  * 1. Membuka database SQLite.
