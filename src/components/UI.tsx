@@ -1,12 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : UI.tsx
- * Lokasi file : src/components/UI.tsx
- * Fungsi      : Menyediakan konstanta warna dan beberapa
- *               komponen antarmuka yang dapat digunakan ulang
- *               pada berbagai screen aplikasi.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
+ 
  *
  * Komponen yang tersedia:
  * 1. C
