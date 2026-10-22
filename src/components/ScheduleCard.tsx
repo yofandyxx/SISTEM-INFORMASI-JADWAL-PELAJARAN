@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 02 - SISTEM INFORMASI JADWAL PELAJARAN
- * File        : ScheduleCard.tsx
- * Lokasi file : src/components/ScheduleCard.tsx 
- * Fungsi      : Menampilkan satu data jadwal dalam bentuk card
- *               serta menyediakan aksi Edit dan Hapus.
- * Dibuat oleh : Amrizal, S.Kom., M.Kom.
+
  *
  * Fitur utama:
  * 1. Menampilkan nama mata kuliah.
